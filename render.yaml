@@ -3,7 +3,7 @@ databases:
     databaseName: aji_tstaji
     user: aji_tstaji
     region: frankfurt
-    plan: basic-256mb
+    plan: 0.1c-256mb
 
 services:
   - type: web

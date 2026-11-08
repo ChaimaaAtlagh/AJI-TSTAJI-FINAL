@@ -11,7 +11,7 @@ neuve.
 1. Importer le dépôt `ChaimaaAtlagh/AJI-TSTAJI-FINAL` dans Render et sélectionner
    le Blueprint `render.yaml`.
 2. Vérifier la région Frankfurt, le plan web Starter, le plan PostgreSQL
-   `basic-256mb` et le disque persistant de 1 Go. Ces ressources sont payantes.
+   `0.1c-256mb` et le disque persistant de 1 Go. Ces ressources sont payantes.
 3. Configurer `BREVO_API_KEY` comme variable secrète Render et
    `BREVO_SENDER_EMAIL` avec une adresse expéditrice vérifiée. La réinitialisation
    de mot de passe par courriel ne fonctionnera pas avant cette configuration.
